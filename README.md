@@ -1,5 +1,5 @@
 # COVID-Analysis
-#### NOTE: Run the plotly express (px) code to see the illustrated analysis results! (have attached .png files just in case but if you want to see zoomed in results, just run the code!
+#### NOTE: Run the plotly express (px) code to see the illustrated analysis results! (have attached .png files just in case but if you want to see zoomed in results, just run the code!)
 This project was issued to me by CodeClause, where I interned.
 The conclusion that I've drawn out from the analysis is that:
 - The country with the most deaths is **USA**, with 16.6% of the total of all the country's death included in this dataset. 
